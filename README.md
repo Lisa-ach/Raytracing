@@ -6,7 +6,7 @@ Cette technique a été appliquée pour créer une scène 3D contenant :
 - Deux **sphères** et un **cube**.
 - Une **source de lumière** accrochée au plafond.
 
-![Résultat](<Résultat.png>)
+<img src="Résultat.png" style="max-width: 500px; width: 100%"/>
 
 Le code a été réalisé en **C++** et avec la bibliothèque **SDL**. Le code peut être compilé avec :
 
